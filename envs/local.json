@@ -1,0 +1,9 @@
+{
+    "APP_API_PREFIX": "api/ekossystem/premium",
+    "VUE_APP_AUTH_TK": "ekossystem.tk",
+    "VUE_APP_AUTH_RFSHTK": "ekossystem.rfshtk",
+    "VUE_APP_AUTH_ME": "ekossystem.me",
+    "VUE_APP_BASE_API_NOPREFIX": "https://murni-finance.ekossystem.com",
+    "VUE_APP_BASE_API":"https://murni-finance.ekossystem.com/api/kredit",
+    "VUE_APP_BASE_SOCKET":"https://murni-finance.ekossystem.com"
+}
